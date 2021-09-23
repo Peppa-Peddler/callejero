@@ -1,0 +1,15 @@
+html, body{
+    margin: 0;
+}
+
+html{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.small img{
+    width: 45%;
+}
